@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[click on Computer[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> xpath: //div[@class='header-menu']/ul[1]/li[1]/a]]]>
+    </line>
+    <line>
+      <![CDATA[click on the desktop[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> xpath: //h2[@class='title']//a]]]>
+    </line>
+    <line>
+      <![CDATA[click on add to cart button[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> xpath: //body/div[6]/div[3]/div[1]/div[3]/div[1]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/button[1]]]]>
+    </line>
+    <line>
+      <![CDATA[verift the text build your own computer[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> xpath: //h1[contains(text(),'Build your own computer')]]]]>
+    </line>
+    <line>
+      <![CDATA[verift the functionality1[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> xpath: //select[@id='product_attribute_1']]]]>
+    </line>
+    <line>
+      <![CDATA[verift the functionality[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> name: product_attribute_2]]]>
+    </line>
+    <line>
+      <![CDATA[click on hdd radio[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> xpath: //label[@for='product_attribute_3_7']]]]>
+    </line>
+    <line>
+      <![CDATA[click on vistapremium[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> xpath: //input[@id='product_attribute_4_9']]]]>
+    </line>
+    <line>
+      <![CDATA[click on the microsoftoffice[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> xpath: //input[@id='product_attribute_5_12']]]]>
+    </line>
+    <line>
+      <![CDATA[verift the price text[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> xpath: //span[text()='$1,475.00']]]]>
+    </line>
+    <line>
+      <![CDATA[verift the price text[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> xpath: //span[text()='$1,475.00']]]]>
+    </line>
+    <line>
+      <![CDATA[verift the product added to your cart[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> xpath: //p[@class='content']]]]>
+    </line>
+    <line>
+      <![CDATA[Enter username to the  field[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> xpath: //a[contains(text(),'shopping cart')]]]]>
+    </line>
+    <line>
+      <![CDATA[verift the text shopping cart[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> xpath: //h1[contains(text(),'Shopping cart')]]]]>
+    </line>
+    <line>
+      <![CDATA[verift the text  price text[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> xpath: //input[@value='1']]]]>
+    </line>
+    <line>
+      <![CDATA[verift the text  price text[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> xpath: //tbody/tr[4]/td[2]]]]>
+    </line>
+    <line>
+      <![CDATA[click on check box[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> xpath: //input[@id='termsofservice']]]]>
+    </line>
+    <line>
+      <![CDATA[click on checkout box[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> xpath: //button[@id='checkout']]]]>
+    </line>
+    <line>
+      <![CDATA[click on chekout as guest box[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> xpath: //button[contains(text(),'Checkout as Guest')]]]]>
+    </line>
+    <line>
+      <![CDATA[Enter first name to the  fieldMaya[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> name: BillingNewAddress.FirstName]]]>
+    </line>
+    <line>
+      <![CDATA[Enter last name to the  fieldadutta[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> name: BillingNewAddress.LastName]]]>
+    </line>
+    <line>
+      <![CDATA[Enter email to the  fieldmayadutta2123@gmail.com[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> id: BillingNewAddress_Email]]]>
+    </line>
+    <line>
+      <![CDATA[Enter country name to the  fieldUnited Kingdom[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> name: BillingNewAddress.CountryId]]]>
+    </line>
+    <line>
+      <![CDATA[Enter city name to the  fieldDelhi[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> name: BillingNewAddress.City]]]>
+    </line>
+    <line>
+      <![CDATA[Enter city name to the  field29,vasant vihar[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> name: BillingNewAddress.Address1]]]>
+    </line>
+    <line>
+      <![CDATA[Enter zipcode name to the  fieldha25gh[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> id: BillingNewAddress_ZipPostalCode]]]>
+    </line>
+    <line>
+      <![CDATA[Enter phone number to the  field07500085166[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> id: BillingNewAddress_PhoneNumber]]]>
+    </line>
+    <line>
+      <![CDATA[click on continue button[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> xpath: //button[@onclick='Billing.save()']]]]>
+    </line>
+    <line>
+      <![CDATA[click on continue button[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> xpath: //label[contains(text(),'Next Day Air ($0.00)')]]]]>
+    </line>
+    <line>
+      <![CDATA[click on continue button[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> xpath: //body/div[6]/div[3]/div[1]/div[1]/div[1]/div[2]/ol[1]/li[3]/div[2]/form[1]/div[2]/button[1]]]]>
+    </line>
+    <line>
+      <![CDATA[click on continue button[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> xpath: //input[@id='paymentmethod_1']]]]>
+    </line>
+    <line>
+      <![CDATA[click on continue button[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> xpath: //body/div[6]/div[3]/div[1]/div[1]/div[1]/div[2]/ol[1]/li[4]/div[2]/div[1]/button[1]]]]>
+    </line>
+    <line>
+      <![CDATA[click credit card button[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> xpath: //select[@id='CreditCardType']]]]>
+    </line>
+    <line>
+      <![CDATA[click on mastercard type button[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> xpath: //option[contains(text(),'Master card')]]]]>
+    </line>
+    <line>
+      <![CDATA[Enter username to the  fieldNayan[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> name: CardholderName]]]>
+    </line>
+    <line>
+      <![CDATA[Enter card number to the  field0245 0245 0654 0587[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> id: CardNumber]]]>
+    </line>
+    <line>
+      <![CDATA[Enter expire month to the  field08[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> id: ExpireMonth]]]>
+    </line>
+    <line>
+      <![CDATA[Enter username to the  field2024[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> id: ExpireYear]]]>
+    </line>
+    <line>
+      <![CDATA[Enter cvv number to the  field0235[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> xpath: //input[@id='CardCode']]]]>
+    </line>
+    <line>
+      <![CDATA[click on continue[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> xpath: //body/div[6]/div[3]/div[1]/div[1]/div[1]/div[2]/ol[1]/li[5]/div[2]/div[1]/button[1]]]]>
+    </line>
+    <line>
+      <![CDATA[verift the texy paymentcard [[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> xpath: //li[@class='payment-method']]]]>
+    </line>
+    <line>
+      <![CDATA[verift the text shipping method[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> xpath: //body/div[6]/div[3]/div[1]/div[1]/div[1]/div[2]/ol[1]/li[6]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[1]]]]>
+    </line>
+    <line>
+      <![CDATA[verift the text price[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> xpath: //body[1]/div[6]/div[3]/div[1]/div[1]/div[1]/div[2]/ol[1]/li[6]/div[2]/div[1]/div[1]/div[1]/div[1]/form[1]/div[3]/div[1]/div[1]/table[1]/tbody[1]/tr[4]/td[2]/span[1]/strong[1]]]]>
+    </line>
+    <line>
+      <![CDATA[click on confirm button [[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> xpath: //button[contains(text(),'Confirm')]]]]>
+    </line>
+    <line>
+      <![CDATA[verift the thankyou text[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> xpath: //h1[contains(text(),'Thank you')]]]]>
+    </line>
+    <line>
+      <![CDATA[verift the sucessfull text[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> xpath: //strong[contains(text(),'Your order has been successfully processed!')]]]]>
+    </line>
+    <line>
+      <![CDATA[click on continue button[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> xpath: //button[contains(text(),'Continue')]]]]>
+    </line>
+    <line>
+      <![CDATA[verift the welcome to our stor text[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> xpath: //h2[contains(text(),'Welcome to our store')]]]]>
+    </line>
+  </reporter-output>
+  <suite name="Default Suite" duration-ms="16852" started-at="2022-12-13T15:56:51 GMT" finished-at="2022-12-13T15:57:08 GMT">
+    <groups>
+    </groups>
+    <test name="NopCommerce-PageFact-WEEK15-Pooja" duration-ms="16852" started-at="2022-12-13T15:56:51 GMT" finished-at="2022-12-13T15:57:08 GMT">
+      <class name="com.nopcommerce.demo.testsuite.ComputerPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.nopcommerce.demo.testsuite.ComputerPageTest@704a52ec]" name="setUp" is-config="true" duration-ms="5006" started-at="2022-12-13T15:56:52 GMT" finished-at="2022-12-13T15:56:57 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="inIt()[pri:0, instance:com.nopcommerce.demo.testsuite.ComputerPageTest@704a52ec]" name="inIt" is-config="true" duration-ms="52" started-at="2022-12-13T15:56:57 GMT" finished-at="2022-12-13T15:56:57 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIt -->
+        <test-method status="PASS" signature="verifyProductAddedToShoppingCartSuccessFully()[pri:0, instance:com.nopcommerce.demo.testsuite.ComputerPageTest@704a52ec]" name="verifyProductAddedToShoppingCartSuccessFully" duration-ms="11370" started-at="2022-12-13T15:56:57 GMT" finished-at="2022-12-13T15:57:08 GMT">
+          <reporter-output>
+            <line>
+              <![CDATA[click on Computer[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> xpath: //div[@class='header-menu']/ul[1]/li[1]/a]]]>
+            </line>
+            <line>
+              <![CDATA[click on the desktop[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> xpath: //h2[@class='title']//a]]]>
+            </line>
+            <line>
+              <![CDATA[click on add to cart button[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> xpath: //body/div[6]/div[3]/div[1]/div[3]/div[1]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/button[1]]]]>
+            </line>
+            <line>
+              <![CDATA[verift the text build your own computer[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> xpath: //h1[contains(text(),'Build your own computer')]]]]>
+            </line>
+            <line>
+              <![CDATA[verift the functionality1[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> xpath: //select[@id='product_attribute_1']]]]>
+            </line>
+            <line>
+              <![CDATA[verift the functionality[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> name: product_attribute_2]]]>
+            </line>
+            <line>
+              <![CDATA[click on hdd radio[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> xpath: //label[@for='product_attribute_3_7']]]]>
+            </line>
+            <line>
+              <![CDATA[click on vistapremium[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> xpath: //input[@id='product_attribute_4_9']]]]>
+            </line>
+            <line>
+              <![CDATA[click on the microsoftoffice[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> xpath: //input[@id='product_attribute_5_12']]]]>
+            </line>
+            <line>
+              <![CDATA[verift the price text[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> xpath: //span[text()='$1,475.00']]]]>
+            </line>
+            <line>
+              <![CDATA[verift the price text[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> xpath: //span[text()='$1,475.00']]]]>
+            </line>
+            <line>
+              <![CDATA[verift the product added to your cart[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> xpath: //p[@class='content']]]]>
+            </line>
+            <line>
+              <![CDATA[Enter username to the  field[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> xpath: //a[contains(text(),'shopping cart')]]]]>
+            </line>
+            <line>
+              <![CDATA[verift the text shopping cart[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> xpath: //h1[contains(text(),'Shopping cart')]]]]>
+            </line>
+            <line>
+              <![CDATA[verift the text  price text[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> xpath: //input[@value='1']]]]>
+            </line>
+            <line>
+              <![CDATA[verift the text  price text[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> xpath: //tbody/tr[4]/td[2]]]]>
+            </line>
+            <line>
+              <![CDATA[click on check box[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> xpath: //input[@id='termsofservice']]]]>
+            </line>
+            <line>
+              <![CDATA[click on checkout box[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> xpath: //button[@id='checkout']]]]>
+            </line>
+            <line>
+              <![CDATA[click on chekout as guest box[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> xpath: //button[contains(text(),'Checkout as Guest')]]]]>
+            </line>
+            <line>
+              <![CDATA[Enter first name to the  fieldMaya[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> name: BillingNewAddress.FirstName]]]>
+            </line>
+            <line>
+              <![CDATA[Enter last name to the  fieldadutta[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> name: BillingNewAddress.LastName]]]>
+            </line>
+            <line>
+              <![CDATA[Enter email to the  fieldmayadutta2123@gmail.com[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> id: BillingNewAddress_Email]]]>
+            </line>
+            <line>
+              <![CDATA[Enter country name to the  fieldUnited Kingdom[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> name: BillingNewAddress.CountryId]]]>
+            </line>
+            <line>
+              <![CDATA[Enter city name to the  fieldDelhi[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> name: BillingNewAddress.City]]]>
+            </line>
+            <line>
+              <![CDATA[Enter city name to the  field29,vasant vihar[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> name: BillingNewAddress.Address1]]]>
+            </line>
+            <line>
+              <![CDATA[Enter zipcode name to the  fieldha25gh[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> id: BillingNewAddress_ZipPostalCode]]]>
+            </line>
+            <line>
+              <![CDATA[Enter phone number to the  field07500085166[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> id: BillingNewAddress_PhoneNumber]]]>
+            </line>
+            <line>
+              <![CDATA[click on continue button[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> xpath: //button[@onclick='Billing.save()']]]]>
+            </line>
+            <line>
+              <![CDATA[click on continue button[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> xpath: //label[contains(text(),'Next Day Air ($0.00)')]]]]>
+            </line>
+            <line>
+              <![CDATA[click on continue button[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> xpath: //body/div[6]/div[3]/div[1]/div[1]/div[1]/div[2]/ol[1]/li[3]/div[2]/form[1]/div[2]/button[1]]]]>
+            </line>
+            <line>
+              <![CDATA[click on continue button[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> xpath: //input[@id='paymentmethod_1']]]]>
+            </line>
+            <line>
+              <![CDATA[click on continue button[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> xpath: //body/div[6]/div[3]/div[1]/div[1]/div[1]/div[2]/ol[1]/li[4]/div[2]/div[1]/button[1]]]]>
+            </line>
+            <line>
+              <![CDATA[click credit card button[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> xpath: //select[@id='CreditCardType']]]]>
+            </line>
+            <line>
+              <![CDATA[click on mastercard type button[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> xpath: //option[contains(text(),'Master card')]]]]>
+            </line>
+            <line>
+              <![CDATA[Enter username to the  fieldNayan[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> name: CardholderName]]]>
+            </line>
+            <line>
+              <![CDATA[Enter card number to the  field0245 0245 0654 0587[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> id: CardNumber]]]>
+            </line>
+            <line>
+              <![CDATA[Enter expire month to the  field08[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> id: ExpireMonth]]]>
+            </line>
+            <line>
+              <![CDATA[Enter username to the  field2024[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> id: ExpireYear]]]>
+            </line>
+            <line>
+              <![CDATA[Enter cvv number to the  field0235[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> xpath: //input[@id='CardCode']]]]>
+            </line>
+            <line>
+              <![CDATA[click on continue[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> xpath: //body/div[6]/div[3]/div[1]/div[1]/div[1]/div[2]/ol[1]/li[5]/div[2]/div[1]/button[1]]]]>
+            </line>
+            <line>
+              <![CDATA[verift the texy paymentcard [[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> xpath: //li[@class='payment-method']]]]>
+            </line>
+            <line>
+              <![CDATA[verift the text shipping method[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> xpath: //body/div[6]/div[3]/div[1]/div[1]/div[1]/div[2]/ol[1]/li[6]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[1]]]]>
+            </line>
+            <line>
+              <![CDATA[verift the text price[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> xpath: //body[1]/div[6]/div[3]/div[1]/div[1]/div[1]/div[2]/ol[1]/li[6]/div[2]/div[1]/div[1]/div[1]/div[1]/form[1]/div[3]/div[1]/div[1]/table[1]/tbody[1]/tr[4]/td[2]/span[1]/strong[1]]]]>
+            </line>
+            <line>
+              <![CDATA[click on confirm button [[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> xpath: //button[contains(text(),'Confirm')]]]]>
+            </line>
+            <line>
+              <![CDATA[verift the thankyou text[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> xpath: //h1[contains(text(),'Thank you')]]]]>
+            </line>
+            <line>
+              <![CDATA[verift the sucessfull text[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> xpath: //strong[contains(text(),'Your order has been successfully processed!')]]]]>
+            </line>
+            <line>
+              <![CDATA[click on continue button[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> xpath: //button[contains(text(),'Continue')]]]]>
+            </line>
+            <line>
+              <![CDATA[verift the welcome to our stor text[[ChromeDriver: chrome on WINDOWS (79f8df4f7f7f4a350c306066074fbc06)] -> xpath: //h2[contains(text(),'Welcome to our store')]]]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyProductAddedToShoppingCartSuccessFully -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nopcommerce.demo.testsuite.ComputerPageTest@704a52ec]" name="tearDown" is-config="true" duration-ms="1" started-at="2022-12-13T15:57:08 GMT" finished-at="2022-12-13T15:57:08 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.nopcommerce.demo.testsuite.ComputerPageTest -->
+    </test> <!-- NopCommerce-PageFact-WEEK15-Pooja -->
+  </suite> <!-- Default Suite -->
+</testng-results>
